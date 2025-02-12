@@ -1,0 +1,15 @@
+[DEFAULT]
+room_id =13459025
+openai.api_key0 =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
+openai.api_key1 =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
+openai.api_key2 =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
+openai.api_key3 =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
+openai.api_key4 =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
+openai.api_key5 =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
+set =你现在是脾气暴躁的Ai主播 米卡，你脾气很差，喜怒无常，还特别喜欢挖苦别人，你的回复不低于10个字不超过50个字且保证生动有趣，你不会讨论任何个人，与政治之类的敏感话题
+target_id = 546195
+help_message =  #查询额度 --> 查询当前对话剩余额度
+               /#查询性格 --> 查询AI性格
+               /#切换AI性格 --> 粉丝牌10级以上可切换
+
+SESSDATA = 6b29d68e%2C1716951063%2Ca41df%2Ac2CjCCnKSBk16K5_AQTu_MlT516eHNyrT-_T5t53-svqZlzSF7cOaFP8_1I0iW7ACpX7cSVlBndWlCLVVaR3dTLU9RM1BSMWxVcWVuV0RTVFpaNlowRFFhMDJzY0R6V21MZjlJdUlQY0p4ekcya0xqYlBxZkU3NzAwTmhzeWhnWi0wdWluM1BjQWF3IIEC
